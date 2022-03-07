@@ -1,0 +1,24 @@
+{
+  "name": "bot-sistemas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "@distube/soundcloud": "^1.1.0",
+    "@distube/spotify": "^1.2.1",
+    "colors": "^1.4.0",
+    "discord-html-transcripts": "^2.2.6",
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.2",
+    "enmap": "^5.8.8",
+    "ffmpeg-static": "^4.4.1",
+    "mongoose": "^6.2.4",
+    "tickets": "^0.2.2"
+  }
+}
